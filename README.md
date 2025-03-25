@@ -57,6 +57,6 @@
 - KMM (Kotlin Multiplatform Mobile)
 
 ## 📫 Let's Connect
-- 📧 Email: [your.email@gmail.com](mailto:anujdroid11@gmail.com)
+- 📧 Email: [anujdroid11@gmail.com](mailto:anujdroid11@gmail.com)
 - 💼 LinkedIn: [Anuj Singh](https://www.linkedin.com/in/anujdroid)
 )
