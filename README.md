@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Anuj Singh  
 ### Android Developer | Kotlin Enthusiast | Open-Source Contributor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujdroid)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/anujdroid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujdroid11@gmail.com)
 
 ## 🔧 Technical Skills
 
@@ -56,6 +57,6 @@
 - KMM (Kotlin Multiplatform Mobile)
 
 ## 📫 Let's Connect
-- 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)
-- 💼 LinkedIn: [Anuj Singh](https://www.linkedin.com/in/your-linkedin)
-- 📝 Resume: [Download PDF](https://drive.google.com/your-resume-link)
+- 📧 Email: [your.email@gmail.com](mailto:anujdroid11@gmail.com)
+- 💼 LinkedIn: [Anuj Singh](https://www.linkedin.com/in/anujdroid)
+)
